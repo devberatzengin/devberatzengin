@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berat</h1>
 <h3 align="center">Student of Software Engineering</h3>
 
-- 🌱 I’m currently learning **Sql Server, C# , Pyhton and Algorithms**
+- 🌱 I’m currently learning **Sql Server, C# , Python and Algorithms**
 
 - 📫 How to reach me **devberatzengin@gmail.com**
 
