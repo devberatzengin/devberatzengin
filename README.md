@@ -30,6 +30,10 @@ Hi! I'm **Berat**, a passionate **Software Developer** and 3rd-year student focu
   <img src="https://img.shields.io/badge/Numpy-52366E?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.Net?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+
+  
 
 </div>
 
