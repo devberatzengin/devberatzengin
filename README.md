@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Berat**, a passionate **Software Developer** and 3rd-year student focused on building robust backend systems and exploring the depths of AI.
+Hi! I'm **Berat**, a passionate **Software Developer** and senior class student focused on building robust backend systems and exploring the depths of AI.
 
 ---
 
